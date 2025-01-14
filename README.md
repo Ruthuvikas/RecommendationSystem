@@ -1,5 +1,5 @@
 
-### **Report on Matrix Factorization for Recommendation Systems**
+### Matrix Factorization for Recommendation Systems**
 
 #### **Introduction**
 The provided code implements a matrix factorization approach to build a basic recommendation system using PyTorch. The primary objective is to predict missing values in a user-item ratings matrix by learning latent representations of users and items. This method is a foundational technique in collaborative filtering for recommendation systems.
