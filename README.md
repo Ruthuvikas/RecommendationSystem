@@ -1,6 +1,3 @@
-Here’s a detailed report on the provided matrix factorization code:
-
----
 
 ### **Report on Matrix Factorization for Recommendation Systems**
 
